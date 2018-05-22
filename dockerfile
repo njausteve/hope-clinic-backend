@@ -22,5 +22,5 @@ EXPOSE 5000
 CMD [ "yarn", "start" ]
 
 # On Development run dev
-#CMD [ "yarn", "start" ]
+#CMD [ "yarn", "dev" ]
 
